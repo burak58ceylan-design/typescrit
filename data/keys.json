@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2dce3565-14a2-473b-a226-6eb02d67e4e4",
+    "key": "FE7371C6449DD42B6642F5309E1167D0",
+    "currentUsers": 1,
+    "lastUsed": "2025-08-07T21:34:40.155Z",
+    "hwids": [],
+    "keyName": "KingoFREE",
+    "keyType": "basic",
+    "maxUsers": 100,
+    "userId": "8dae536c-e172-4325-af06-4057cb11c3b7",
+    "status": "active",
+    "expiresAt": "2025-09-06T21:32:45.554Z",
+    "createdAt": "2025-08-07T21:32:45.554Z",
+    "updatedAt": "2025-08-07T21:34:40.155Z"
+  }
+]

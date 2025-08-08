@@ -1,0 +1,25 @@
+[
+  {
+    "id": "d812365e-4011-47b1-ab45-f5277bd07bb9",
+    "endpoint": "/api/connect",
+    "method": "POST",
+    "ipAddress": "172.31.86.226",
+    "userAgent": "curl/8.14.1",
+    "response": "error: invalid key",
+    "success": false,
+    "hwid": "test-hwid-123",
+    "createdAt": "2025-08-07T21:34:02.293Z"
+  },
+  {
+    "id": "76252c03-0897-44aa-85d9-42e6a3623a27",
+    "endpoint": "/api/connect",
+    "method": "POST",
+    "keyId": "2dce3565-14a2-473b-a226-6eb02d67e4e4",
+    "ipAddress": "172.31.86.226",
+    "userAgent": "",
+    "response": "success: access granted",
+    "success": true,
+    "hwid": "1f4b5dc6-24d5-377d-b13d-b7833659a959",
+    "createdAt": "2025-08-07T21:34:40.156Z"
+  }
+]
